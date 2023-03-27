@@ -44,8 +44,8 @@ const Header = () => {
           <Image
             className='W-[80px] md:[80px]'
             src='/logo.png'
-            height={150}
-            width={150}
+            height={180}
+            width={110}
             alt='logo'
           />
         </Link>
